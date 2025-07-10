@@ -6,9 +6,14 @@ export default function HomeScreen() {
         <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
             <Text>🏠 Home</Text>
             <Link href={{
-                pathname: "docs/hehehehe"
-            }} style={{ color: 'blue', marginTop: 10 }}>
+                pathname: "/docs/hehehelalalal"
+            }} style={{ color: 'blue', marginTop: 20 }}>
                 <Text>Docs</Text>
+            </Link>
+            <Link href={{
+                pathname: "/profile/cogangsekodeemnghingodumotgiaylucnay"
+            }} style={{ color: 'red', marginTop: 20 }}>
+                <Text>profile</Text>
             </Link>
         </View>
     );
