@@ -23,7 +23,6 @@
     "expo-image": "~2.3.2",
     "expo-linear-gradient": "^14.1.5",
     "expo-linking": "~7.1.7",
-    "expo-router": "~5.1.3",
     "expo-splash-screen": "~0.30.10",
     "expo-status-bar": "~2.2.3",
     "expo-symbols": "~0.4.5",
@@ -39,7 +38,7 @@
     "react-native-svg": "^15.12.0",
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
-    "wini-mobile-components": "^1.0.53"
+    "wini-mobile-component": "^0.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
